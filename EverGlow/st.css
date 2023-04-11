@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(252, 242, 249);
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 600;
+
+}
+
+.brand {
+    font-size: 25px;
+}
+
+h2 {
+    color: #7f2549;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#intro {
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+.but {
+    background-color: rgb(231, 143, 157);
+    color: azure;
+}
+
+.but:hover {
+    background-color: #7f2549;
+}
+
+
+
+.price-color {
+    color: rgb(231, 143, 157);
+}
+
+#most-popular {
+    font-size: 20px;
+}
+
+.card-header {
+    color: #7f2549;
+}
+
+.card {
+    border-color: #b18a99;
+}
+
+.card-title {
+    color: #001227;
+}
+
+
+.accordion-body {
+    color: #b33366;
+}
+
+.navbar.scrolled {
+    background: #fceaeb;
+    transition: background 200ms;
+}

@@ -7,6 +7,7 @@ body {
 
 .brand {
     font-size: 25px;
+    color: #5a122f;
 }
 
 h2 {
@@ -58,4 +59,26 @@ h2 {
 .navbar.scrolled {
     background: #fceaeb;
     transition: background 200ms;
+}
+
+#cards {
+    color: #5a122f;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.cards {
+    transition: all 0.2s;
+}
+
+.cards:hover {
+    transform: scale(1.05);
+}
+
+.pricing-choice {
+    transition: all 0.2s;
+}
+
+.pricing-choice:hover {
+    transform: scale(1.05);
 }
